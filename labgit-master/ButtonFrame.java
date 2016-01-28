@@ -11,7 +11,7 @@ class ButtonListener implements ActionListener
 			       e.getActionCommand());
 	}
 }
-
+//this is a different line of text
 class ButtonCloser extends WindowAdapter
 {
     public void windowClosing(WindowEvent we)

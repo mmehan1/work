@@ -20,7 +20,7 @@ class ButtonCloser extends WindowAdapter
 	System.exit(0);
     }
 }
-
+//this is my 3rd comment line
 public class ButtonFrame extends JFrame
 {
 	public ButtonFrame()
